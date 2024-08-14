@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![resume](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gitea.com/imanbakhtiari/resume) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](imanbakhtiyari.it@gmail.com)
+[![resume](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gitea.com/imanbakhtiari/resume) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanbakhtiyari.it@gmail.com)
 <!--[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)-->
 

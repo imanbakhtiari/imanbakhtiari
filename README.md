@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://parsam110.github.io/parsam110/](https://gitea.com/imanbakhtiari/resume)) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)
+[![resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gitea.com/imanbakhtiari/resume) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)
 <!--[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)-->
 

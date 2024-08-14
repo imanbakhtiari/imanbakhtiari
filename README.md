@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&card_width=320" />
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&card_width=320" />
 </a>
 <a href="https://github.com/imanbakhtiari/github-readme-stats">
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&rank_icon=github" />
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&rank_icon=github" />
 </a>
 
 <br clear="left" />

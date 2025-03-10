@@ -1,34 +1,21 @@
 ## Hi there 👋
 
-[![resume](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gitea.com/imanbakhtiari/resume) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanbakhtiyari.it@gmail.com)
-<!--[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanbakhtiyari.it@gmail.com)
 
-<!--
+---
 
-**imanbakhtiari/imanbakhtiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&theme=radical" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&card_width=320" />
-</a>
-<a href="https://github.com/imanbakhtiari/github-readme-stats">
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&rank_icon=github" />
-</a>
-
-<br clear="left" />
-
+### 🎭 Fun Meme
 <p align="center">
-  <img src="seinfeld-george.gif" />
+  <img src="https://media.giphy.com/media/l2JhL9pRJY8WLguxG/giphy.gif" width="300" />
 </p>

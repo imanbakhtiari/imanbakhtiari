@@ -9,13 +9,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&theme=radical&cache_seconds=1800" />
 </div>
 
 ---
 
 ### 🎭 Fun Meme
 <p align="center">
-  <img src="https://media.giphy.com/media/l2JhL9pRJY8WLguxG/giphy.gif" width="300" />
+  <img src="https://media.tenor.com/z0B4ZUPXhPAAAAAC/computer.gif" width="300" />
 </p>

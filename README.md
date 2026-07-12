@@ -56,12 +56,6 @@ Building scalable cloud-native platforms, production AI systems, and developer i
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=imanbakhtiari&style=for-the-badge)
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)

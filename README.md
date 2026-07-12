@@ -1,22 +1,22 @@
 # Hi, I'm Iman Bakhtiari 👋
 
-### Senior Platform Engineer | Cloud Developer | DevOps | AI Infrastructure Engineer
+### Senior Platform Engineer • Cloud Developer • DevOps • AI Infrastructure Engineer
 
-I build scalable cloud-native platforms, production Kubernetes clusters, observability stacks, and AI-powered applications.
+Building scalable cloud-native platforms, production AI systems, and developer infrastructure.
 
 ---
 
-## 🚀 Focus Areas
+## 🚀 Focus
 
 - ☁️ Cloud Development
-- ☸️ Kubernetes
-- 🚀 Platform Engineering
-- 🔄 DevOps & GitOps
+- ☸️ Kubernetes Platform Engineering
+- 🚀 DevOps & GitOps
 - 🤖 AI Agents & Agentic AI
 - 🧠 LangGraph & LangChain
-- 🔥 LLMOps & RAG
+- 📦 LLMOps & RAG
 - 📊 OpenTelemetry & Observability
 - 🌍 Distributed Systems
+- 🔒 Cloud Native Security
 
 ---
 
@@ -24,32 +24,41 @@ I build scalable cloud-native platforms, production Kubernetes clusters, observa
 
 **Cloud & Platform**
 
-`Kubernetes` • `OpenStack` • `Docker` • `Helm` 
+`Kubernetes` • `OpenStack` • `Docker`
 
 **DevOps**
 
-`GitLab CI` • `ArgoCD` • `Terraform` • `Ansible` • `Linux` • `Crossplane`
+`GitLab CI` • `GitHub Actions` • `ArgoCD` • `Terraform` • `Ansible` • `Linux` • `Crossplane` 
 
 **Observability**
 
-`Prometheus` • `Grafana` • `VictoriaMetrics` • `OpenTelemetry` • `SigNoz` • `Loki`
+`OpenTelemetry` • `Prometheus` • `Grafana` • `VictoriaMetrics` • `SigNoz` • `Loki`
 
 **AI**
 
-`LangGraph` • `LangChain` • `OpenAI` • `Ollama` • `Qdrant` • `Milvus` • `MCP`
+`LangGraph` • `LangChain` • `OpenAI` • `Ollama` • `MCP` • `Qdrant` • `Milvus`
 
 **Languages**
 
-`Go` • `Python` • `Bash`
+ `Python` • `Bash`
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Overview
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&show_icons=true&theme=github_dark&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanbakhtiari&layout=compact&theme=github_dark"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanbakhtiari&theme=github_dark)
+
+---
+
+## 🔥 Contribution Streak
+
+![](https://streak-stats.demolab.com?user=imanbakhtiari&theme=github-dark)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=imanbakhtiari&style=for-the-badge)
 
 ---
 
@@ -57,4 +66,8 @@ I build scalable cloud-native platforms, production Kubernetes clusters, observa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imanbakhtiyari.it@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imanbakhtiyari.it@gmail.com)
+
+---
+
+> *Engineering reliable cloud platforms, observability ecosystems, and AI-powered infrastructure.*

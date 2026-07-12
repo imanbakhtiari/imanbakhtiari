@@ -1,4 +1,4 @@
-# Hi, I'm Iman Bakhtiari 👋
+# Hi, I'm Iman Bakhtiari 
 
 ### Senior Platform Engineer • Cloud Developer • DevOps • AI Infrastructure Engineer
 
@@ -6,21 +6,21 @@ Building scalable cloud-native platforms, production AI systems, and developer i
 
 ---
 
-## 🚀 Focus
+##  Focus
 
-- ☁️ Cloud Development
-- ☸️ Kubernetes Platform Engineering
-- 🚀 DevOps & GitOps
-- 🤖 AI Agents & Agentic AI
-- 🧠 LangGraph & LangChain
-- 📦 LLMOps & RAG
-- 📊 OpenTelemetry & Observability
-- 🌍 Distributed Systems
-- 🔒 Cloud Native Security
+-  Cloud Development
+-  Kubernetes Platform Engineering
+-  DevOps & GitOps
+-  AI Agents & Agentic AI
+-  LangGraph & LangChain
+-  LLMOps & RAG
+-  OpenTelemetry & Observability
+-  Distributed Systems
+-  Cloud Native Security
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Cloud & Platform**
 
@@ -44,19 +44,19 @@ Building scalable cloud-native platforms, production AI systems, and developer i
 
 ---
 
-## 📈 GitHub Overview
+##  GitHub Overview
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanbakhtiari&theme=github_dark)
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 ![](https://streak-stats.demolab.com?user=imanbakhtiari&theme=github-dark)
 
 ---
 
-## 📫 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)

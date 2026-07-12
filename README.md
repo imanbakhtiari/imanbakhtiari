@@ -1,35 +1,60 @@
+# Hi, I'm Iman Bakhtiari 👋
 
-## Hi there 👋
+### Senior Platform Engineer | Cloud Developer | DevOps | AI Infrastructure Engineer
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanbakhtiyari.it@gmail.com)
-<!--[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)-->
+I build scalable cloud-native platforms, production Kubernetes clusters, observability stacks, and AI-powered applications.
 
-<!--
+---
 
-**imanbakhtiari/imanbakhtiari** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+## 🚀 Focus Areas
 
-Here are some ideas to get you started:
+- ☁️ Cloud Development
+- ☸️ Kubernetes
+- 🚀 Platform Engineering
+- 🔄 DevOps & GitOps
+- 🤖 AI Agents & Agentic AI
+- 🧠 LangGraph & LangChain
+- 🔥 LLMOps & RAG
+- 📊 OpenTelemetry & Observability
+- 🌍 Distributed Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&card_width=320" />
-</a>
-<a href="https://github.com/imanbakhtiari/github-readme-stats">
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&rank_icon=github" />
-</a>
+## 🛠 Tech Stack
 
-<br clear="left" />
+**Cloud & Platform**
+
+`Kubernetes` • `OpenStack` • `Docker` • `Helm` 
+
+**DevOps**
+
+`GitLab CI` • `ArgoCD` • `Terraform` • `Ansible` • `Linux` • `Crossplane`
+
+**Observability**
+
+`Prometheus` • `Grafana` • `VictoriaMetrics` • `OpenTelemetry` • `SigNoz` • `Loki`
+
+**AI**
+
+`LangGraph` • `LangChain` • `OpenAI` • `Ollama` • `Qdrant` • `Milvus` • `MCP`
+
+**Languages**
+
+`Go` • `Python` • `Bash`
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="seinfeld-george.gif" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&show_icons=true&theme=github_dark&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanbakhtiari&layout=compact&theme=github_dark"/>
 </p>
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/imanbkhtiari)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imanbakhtiyari.it@gmail.com)
